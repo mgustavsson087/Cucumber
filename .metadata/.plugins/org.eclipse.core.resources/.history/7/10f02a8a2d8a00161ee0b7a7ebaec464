@@ -1,0 +1,13 @@
+package com.teliacarrier.runner;
+
+import org.junit.runner.RunWith;
+
+@RunWith(Cucumber.class)
+@Cucumber.Options(features="features", glue={"stepDefinition"})
+public class Runner {
+
+	public static void main(String[] args) throws Throwable {
+
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.teliacarrier.cucumber.runner&apos; to &apos;com.teliacarrier.runner&apos;&#x0D;&#x0A;- Original project: &apos;com.teliacarrier&apos;&#x0D;&#x0A;- Original element: &apos;com.teliacarrier/src/test/java/com.teliacarrier.cucumber.runner&apos;&#x0D;&#x0A;- Renamed element: &apos;com.teliacarrier/src/test/java/com.teliacarrier.runner&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.teliacarrier.cucumber.runner&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/test\/java&lt;com.teliacarrier.cucumber.runner" name="com.teliacarrier.runner" qualified="false" references="true" stamp="1475583708583" textual="false" version="1.0"/>
+</session>
